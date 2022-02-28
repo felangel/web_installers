@@ -2,6 +2,7 @@
 ## Map for driver versions to use for each browser version.
 ## See: https://chromedriver.chromium.org/downloads
 chrome:
+  98: '98.0.4758.102'
   97: '97.0.4692.71'
   95: '95.0.4638.10'
   94: '94.0.4606.41'
