@@ -2,6 +2,9 @@
 ## Map for driver versions to use for each browser version.
 ## See: https://chromedriver.chromium.org/downloads
 chrome:
+  105: '105.0.5195.19'
+  104: '104.0.5112.79'
+  103: '103.0.5060.134'
   102: '102.0.5005.61'
   101: '101.0.4951.41'
   100: '100.0.4896.60'
